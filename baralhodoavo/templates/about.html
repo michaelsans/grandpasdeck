@@ -1,0 +1,28 @@
+{% extends "templates/base.html" %}
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        {% block title %} Rules - Grandpas Deck {% endblock %}
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
+    <body>
+    {% block content %}
+        <div class ="about">
+        <ol>
+            <h2>Rules</h2>
+            <li>Trust in the hearth of the cards.</li>
+            <dd>Give your best to win, don't give up your next draw will win you the match, probably</dd>
+            <li>Don't change the cards.</li>
+            <dd>Grandpa spent a lot of time making this deck for you, even if you think so this deck has no useless cards, just go with it.</dd>
+            <li>Fun first, win second.</li>
+            <dd>This is a fun challenge you are giving yourself, dont get frustrate if you lose, just go next or try a new deck.</dd>
+            <li>Never use the Braum emote, ever.</li>
+            <dd>Just don't</dd>
+        </ol>
+        
+        </div>
+    {% endblock %}
+    </body>
+</html>
