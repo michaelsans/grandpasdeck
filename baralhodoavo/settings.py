@@ -26,7 +26,7 @@ SECRET_KEY = 'lz9*y$wlcq-^exta=m8+pj7fvl_ftg2dob3msk+#nk#r=@wd$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://grandpasdeck.herokuapp.com/", "127.0.0.1"]
 
 
 # Application definition
