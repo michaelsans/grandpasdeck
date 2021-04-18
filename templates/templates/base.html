@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/blog.css' %}">  
+</head>
+<body>
+    <header class="menu-principal">
+        <main>
+        <div class="header-1">
+            <div class = "logo">
+                <a href='home'>Grandpas Deck</a>
+            </div>
+            <div class = "Modos-de-jogo">
+                <ul>
+                    <li><a href="standard">Standard</a></li>
+                    <li><a href='Singleton'>Singleton</a></li>
+                    <li><a href="about">Rules</a></li>
+                </ul>
+            </div>
+            <a href="https://discord.gg/N6uY4ppq"><img alt="Qries" src="https://discordapp.com/api/guilds/832694697637052496/widget.png?style=shield"></a>
+        </div>
+        </main>
+    </header>
+
+    <header class="header-2">
+    </header>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+</body>
+</html>

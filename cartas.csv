@@ -1,0 +1,746 @@
+Nome,Região,Raridade,Codigo,Tipo,Custo,Imagem
+Twin Disciplines,Ionia,Common,01IO012,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO012.png
+Yasuo,Ionia,Champion,01IO015,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO015.png
+Keeper of Masks,Ionia,Common,01IO020,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO020.png
+Herald of Spring,Ionia,Common,01IO045,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO045.png
+Fae Bladetwirler,Ionia,Rare,01IO008,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO008.png
+Kinkou Lifeblade,Ionia,Common,01IO040,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO040.png
+Karma,Ionia,Champion,01IO041,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO041.png
+Recall,Ionia,Common,01IO011,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO011.png
+Zed,Ionia,Champion,01IO009,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO009.png
+Greenglade Elder,Ionia,Common,01IO014,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO014.png
+Nimble Poro,Ionia,Common,01IO005,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO005.png
+Navori Conspirator,Ionia,Common,01IO044,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO044.png
+Jeweled Protector,Ionia,Rare,01IO023,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO023.png
+Sown Seeds,Ionia,Rare,01IO029,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO029.png
+Death Mark,Ionia,Rare,01IO003,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO003.png
+Shadow Flare,Ionia,Epic,01IO047,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO047.png
+Inspiring Mentor,Ionia,Common,01IO026,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO026.png
+Dawn and Dusk,Ionia,Rare,01IO024,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO024.png
+Scaled Snapper,Ionia,Common,01IO028,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO028.png
+Shadow Assassin,Ionia,Common,01IO057,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO057.png
+Shen,Ionia,Champion,01IO032,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO032.png
+Shadow Fiend,Ionia,Common,01IO013,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO013.png
+Rush,Ionia,Common,01IO018,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO018.png
+Yone, Windchaser,Ionia,Rare,01IO056,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO056.png
+Zephyr Sage,Ionia,Rare,01IO016,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO016.png
+Greenglade Lookout,Ionia,Common,01IO036,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO036.png
+Minah Swiftfoot,Ionia,Epic,01IO033,Unit,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO033.png
+Ritual of Renewal,Ionia,Rare,01IO001,Spell,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO001.png
+Stand United,Ionia,Rare,01IO010,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO010.png
+Ghost,Ionia,Common,01IO022,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO022.png
+Windfarer Hatchling,Ionia,Epic,01IO021,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO021.png
+Insight of Ages,Ionia,Rare,01IO054,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO054.png
+Silent Shadowseer,Ionia,Epic,01IO027,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO027.png
+Cloud Drinker,Ionia,Rare,01IO031,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO031.png
+Will of Ionia,Ionia,Common,01IO002,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO002.png
+Navori Bladescout,Ionia,Common,01IO017,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO017.png
+Sparring Student,Ionia,Common,01IO042,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO042.png
+Greenglade Duo,Ionia,Rare,01IO006,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO006.png
+Kinkou Wayfinder,Ionia,Rare,01IO050,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO050.png
+Yusari,Ionia,Rare,01IO048,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO048.png
+Ren Shadowblade,Ionia,Epic,01IO007,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO007.png
+Emerald Awakener,Ionia,Common,01IO053,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO053.png
+Health Potion,Ionia,Common,01IO004,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO004.png
+Deny,Ionia,Rare,01IO049,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO049.png
+Navori Highwayman,Ionia,Common,01IO052,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO052.png
+The Empyrean,Ionia,Epic,01IO030,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO030.png
+Greenglade Caretaker,Ionia,Common,01IO019,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO019.png
+Steel Tempest,Ionia,Rare,01IO046,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO046.png
+Spirit's Refuge,Ionia,Common,01IO037,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO037.png
+Rivershaper,Ionia,Rare,01IO043,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO043.png
+Solitary Monk,Ionia,Rare,01IO038,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO038.png
+Shadowshift,Ionia,Common,01IO039,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO039.png
+Ki Guardian,Ionia,Common,01IO055,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01IO055.png
+Draven,Noxus,Champion,01NX020,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX020.png
+Vladimir,Noxus,Champion,01NX006,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX006.png
+Culling Strike,Noxus,Rare,01NX004,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX004.png
+Crimson Curator,Noxus,Common,01NX048,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX048.png
+Darius,Noxus,Champion,01NX038,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX038.png
+Arachnoid Host,Noxus,Rare,01NX023,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX023.png
+Decisive Maneuver,Noxus,Rare,01NX013,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX013.png
+Arachnoid Sentry,Noxus,Common,01NX046,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX046.png
+Transfusion,Noxus,Common,01NX047,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX047.png
+Legion Saboteur,Noxus,Common,01NX040,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX040.png
+Brothers' Bond,Noxus,Common,01NX025,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX025.png
+House Spider,Noxus,Common,01NX055,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX055.png
+Crimson Disciple,Noxus,Rare,01NX030,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX030.png
+Arena Battlecaster,Noxus,Rare,01NX007,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX007.png
+Legion Marauder,Noxus,Common,01NX021,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX021.png
+Crowd Favorite,Noxus,Rare,01NX009,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX009.png
+Whirling Death,Noxus,Common,01NX011,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX011.png
+Reckoning,Noxus,Epic,01NX053,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX053.png
+Intimidating Roar,Noxus,Rare,01NX054,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX054.png
+Legion Veteran,Noxus,Epic,01NX029,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX029.png
+Shiraza the Blade,Noxus,Epic,01NX014,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX014.png
+Katarina,Noxus,Champion,01NX042,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX042.png
+Captain Farron,Noxus,Epic,01NX051,Unit,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX051.png
+Legion Rearguard,Noxus,Common,01NX012,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX012.png
+Blade's Edge,Noxus,Common,01NX043,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX043.png
+Legion Grenadier,Noxus,Common,01NX037,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX037.png
+Legion General,Noxus,Common,01NX010,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX010.png
+Legion Drummer,Noxus,Common,01NX017,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX017.png
+Arena Bookie,Noxus,Rare,01NX003,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX003.png
+Vision,Noxus,Rare,01NX039,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX039.png
+Trifarian Shieldbreaker,Noxus,Common,01NX041,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX041.png
+Minotaur Reckoner,Noxus,Rare,01NX036,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX036.png
+Battering Ram,Noxus,Epic,01NX044,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX044.png
+Crimson Aristocrat,Noxus,Common,01NX005,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX005.png
+Trifarian Hopeful,Noxus,Common,01NX016,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX016.png
+Might,Noxus,Common,01NX019,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX019.png
+Precious Pet,Noxus,Common,01NX015,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX015.png
+Death Lotus,Noxus,Rare,01NX050,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX050.png
+Shunpo,Noxus,Common,01NX056,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX056.png
+Trifarian Assessor,Noxus,Rare,01NX033,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX033.png
+Blood for Blood,Noxus,Common,01NX052,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX052.png
+Savage Reckoner,Noxus,Rare,01NX045,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX045.png
+Trifarian Gloryseeker,Noxus,Rare,01NX031,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX031.png
+Decimate,Noxus,Rare,01NX002,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX002.png
+Basilisk Rider,Noxus,Rare,01NX008,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX008.png
+Affectionate Poro,Noxus,Common,01NX034,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX034.png
+Draven's Biggest Fan,Noxus,Common,01NX035,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX035.png
+Reckless Trifarian,Noxus,Common,01NX026,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX026.png
+Elixir of Wrath,Noxus,Common,01NX027,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX027.png
+Noxian Guillotine,Noxus,Rare,01NX022,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX022.png
+Crimson Awakener,Noxus,Rare,01NX032,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX032.png
+Kato The Arm,Noxus,Epic,01NX024,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX024.png
+Guile,Noxus,Common,01NX049,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01NX049.png
+Dawnspeakers,Demacia,Epic,01DE031,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE031.png
+Lucian,Demacia,Champion,01DE022,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE022.png
+Mobilize,Demacia,Rare,01DE019,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE019.png
+Lux,Demacia,Champion,01DE042,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE042.png
+Swiftwing Lancer,Demacia,Rare,01DE010,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE010.png
+Vanguard Defender,Demacia,Common,01DE020,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE020.png
+Battlesmith,Demacia,Rare,01DE034,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE034.png
+Tianna Crownguard,Demacia,Epic,01DE002,Unit,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE002.png
+Garen,Demacia,Champion,01DE012,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE012.png
+Stand Alone,Demacia,Rare,01DE017,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE017.png
+Fiora,Demacia,Champion,01DE045,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE045.png
+Brightsteel Formation,Demacia,Epic,01DE052,Unit,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE052.png
+Relentless Pursuit,Demacia,Common,01DE021,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE021.png
+Detain,Demacia,Common,01DE025,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE025.png
+Judgment,Demacia,Epic,01DE007,Spell,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE007.png
+Laurent Duelist,Demacia,Common,01DE055,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE055.png
+Mageseeker Inciter,Demacia,Rare,01DE048,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE048.png
+Vanguard Bannerman,Demacia,Rare,01DE001,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE001.png
+War Chefs,Demacia,Common,01DE043,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE043.png
+Plucky Poro,Demacia,Common,01DE049,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE049.png
+Laurent Chevalier,Demacia,Epic,01DE053,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE053.png
+Remembrance,Demacia,Rare,01DE033,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE033.png
+Redoubled Valor,Demacia,Rare,01DE044,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE044.png
+Mageseeker Conservator,Demacia,Common,01DE024,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE024.png
+Silverwing Vanguard,Demacia,Common,01DE004,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE004.png
+Laurent Protege,Demacia,Common,01DE011,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE011.png
+Succession,Demacia,Common,01DE047,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE047.png
+Vanguard Lookout,Demacia,Common,01DE046,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE046.png
+Purify,Demacia,Common,01DE050,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE050.png
+Mageseeker Persuader,Demacia,Rare,01DE040,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE040.png
+Vanguard Squire,Demacia,Common,01DE036,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE036.png
+Riposte,Demacia,Rare,01DE037,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE037.png
+Reinforcements,Demacia,Rare,01DE014,Spell,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE014.png
+Radiant Guardian,Demacia,Rare,01DE015,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE015.png
+Laurent Bladekeeper,Demacia,Rare,01DE003,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE003.png
+Single Combat,Demacia,Common,01DE026,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE026.png
+Prismatic Barrier,Demacia,Common,01DE032,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE032.png
+En Garde,Demacia,Rare,01DE027,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE027.png
+Vanguard Sergeant,Demacia,Rare,01DE006,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE006.png
+Senna, Sentinel of Light,Demacia,Rare,01DE038,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE038.png
+Back to Back,Demacia,Rare,01DE041,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE041.png
+For Demacia!,Demacia,Rare,01DE035,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE035.png
+Radiant Strike,Demacia,Common,01DE018,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE018.png
+Brightsteel Protector,Demacia,Common,01DE009,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE009.png
+Cithria of Cloudfield,Demacia,Common,01DE039,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE039.png
+Vanguard Firstblade,Demacia,Common,01DE056,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE056.png
+Fleetfeather Tracker,Demacia,Common,01DE029,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE029.png
+Vanguard Cavalry,Demacia,Common,01DE028,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE028.png
+Chain Vest,Demacia,Common,01DE013,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE013.png
+Mageseeker Investigator,Demacia,Common,01DE023,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE023.png
+Cithria the Bold,Demacia,Epic,01DE051,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE051.png
+Vanguard Redeemer,Demacia,Common,01DE054,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE054.png
+Silverwing Diver,Demacia,Common,01DE030,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01DE030.png
+Jinx,PiltoverZaun,Champion,01PZ040,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ040.png
+Teemo,PiltoverZaun,Champion,01PZ008,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ008.png
+Heimerdinger,PiltoverZaun,Champion,01PZ056,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ056.png
+Augmented Experimenter,PiltoverZaun,Epic,01PZ013,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ013.png
+Parade Electrorig,PiltoverZaun,Common,01PZ007,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ007.png
+Academy Prodigy,PiltoverZaun,Common,01PZ018,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ018.png
+Eager Apprentice,PiltoverZaun,Common,01PZ019,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ019.png
+Puffcap Peddler,PiltoverZaun,Common,01PZ025,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ025.png
+Corina Veraza,PiltoverZaun,Epic,01PZ048,Unit,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ048.png
+Jury-Rig,PiltoverZaun,Common,01PZ028,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ028.png
+Rising Spell Force,PiltoverZaun,Common,01PZ050,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ050.png
+Boomcrew Rookie,PiltoverZaun,Common,01PZ054,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ054.png
+Shady Character,PiltoverZaun,Rare,01PZ030,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ030.png
+Used Cask Salesman,PiltoverZaun,Common,01PZ017,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ017.png
+Sump Dredger,PiltoverZaun,Common,01PZ038,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ038.png
+Ezreal,PiltoverZaun,Champion,01PZ036,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ036.png
+Jae Medarda,PiltoverZaun,Epic,01PZ035,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ035.png
+Mushroom Cloud,PiltoverZaun,Common,01PZ010,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ010.png
+Zaunite Urchin,PiltoverZaun,Common,01PZ045,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ045.png
+Back Alley Barkeep,PiltoverZaun,Common,01PZ002,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ002.png
+Trueshot Barrage,PiltoverZaun,Epic,01PZ004,Spell,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ004.png
+Daring Poro,PiltoverZaun,Common,01PZ020,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ020.png
+Counterfeit Copies,PiltoverZaun,Rare,01PZ046,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ046.png
+Mystic Shot,PiltoverZaun,Common,01PZ052,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ052.png
+Purrsuit of Perfection,PiltoverZaun,Epic,01PZ033,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ033.png
+Hextech Transmogulator,PiltoverZaun,Rare,01PZ005,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ005.png
+Midenstokke Henchmen,PiltoverZaun,Rare,01PZ021,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ021.png
+Statikk Shock,PiltoverZaun,Rare,01PZ031,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ031.png
+Golden Crushbot,PiltoverZaun,Common,01PZ059,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ059.png
+Rummage,PiltoverZaun,Common,01PZ001,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ001.png
+Scrapdash Assembly,PiltoverZaun,Common,01PZ057,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ057.png
+Thermogenic Beam,PiltoverZaun,Rare,01PZ027,Spell,0,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ027.png
+Astute Academic,PiltoverZaun,Common,01PZ055,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ055.png
+Unlicensed Innovation,PiltoverZaun,Common,01PZ014,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ014.png
+Sumpsnipe Scavenger,PiltoverZaun,Rare,01PZ034,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ034.png
+Accelerated Purrsuit,PiltoverZaun,Epic,01PZ060,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ060.png
+Assembly Bot,PiltoverZaun,Rare,01PZ003,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ003.png
+Chempunk Shredder,PiltoverZaun,Rare,01PZ044,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ044.png
+Eminent Benefactor,PiltoverZaun,Rare,01PZ029,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ029.png
+Funsmith,PiltoverZaun,Rare,01PZ051,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ051.png
+Professor von Yipp,PiltoverZaun,Rare,01PZ023,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ023.png
+Unstable Voltician,PiltoverZaun,Rare,01PZ024,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ024.png
+Progress Day!,PiltoverZaun,Epic,01PZ049,Spell,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ049.png
+Plaza Guardian,PiltoverZaun,Rare,01PZ006,Unit,10,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ006.png
+Clump of Whumps,PiltoverZaun,Common,01PZ053,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ053.png
+Flame Chompers!,PiltoverZaun,Common,01PZ012,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ012.png
+Get Excited!,PiltoverZaun,Rare,01PZ039,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ039.png
+Flash of Brilliance,PiltoverZaun,Common,01PZ016,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ016.png
+Chump Whump,PiltoverZaun,Rare,01PZ058,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ058.png
+Amateur Aeronaut,PiltoverZaun,Common,01PZ009,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ009.png
+Intrepid Mariner,PiltoverZaun,Rare,01PZ042,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ042.png
+Sumpworks Map,PiltoverZaun,Common,01PZ026,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ026.png
+Chempunk Pickpocket,PiltoverZaun,Rare,01PZ043,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ043.png
+Caustic Cask,PiltoverZaun,Common,01PZ047,Unit,0,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01PZ047.png
+Anivia,Freljord,Champion,01FR024,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR024.png
+Tryndamere,Freljord,Champion,01FR039,Unit,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR039.png
+Iceborn Legacy,Freljord,Common,01FR006,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR006.png
+Omen Hawk,Freljord,Common,01FR022,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR022.png
+Harsh Winds,Freljord,Rare,01FR042,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR042.png
+Braum,Freljord,Champion,01FR009,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR009.png
+Rimefang Wolf,Freljord,Rare,01FR018,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR018.png
+Avarosan Marksman,Freljord,Common,01FR036,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR036.png
+Scarthane Steffen,Freljord,Common,01FR045,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR045.png
+Lonely Poro,Freljord,Common,01FR008,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR008.png
+Shatter,Freljord,Common,01FR055,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR055.png
+Ashe,Freljord,Champion,01FR038,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR038.png
+Entreat,Freljord,Rare,01FR029,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR029.png
+Unscarred Reaver,Freljord,Common,01FR035,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR035.png
+Avalanche,Freljord,Rare,01FR020,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR020.png
+Yeti Yearling,Freljord,Common,01FR014,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR014.png
+Stalking Wolf,Freljord,Common,01FR049,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR049.png
+Avarosan Outriders,Freljord,Rare,01FR037,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR037.png
+Alpha Wildclaw,Freljord,Common,01FR026,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR026.png
+Brittle Steel,Freljord,Common,01FR030,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR030.png
+Scarmother Vrynna,Freljord,Epic,01FR013,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR013.png
+Winter's Breath,Freljord,Epic,01FR019,Spell,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR019.png
+Avarosan Hearthguard ,Freljord,Epic,01FR041,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR041.png
+Poro Herder,Freljord,Rare,01FR025,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR025.png
+Scarmaiden Reaver,Freljord,Rare,01FR054,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR054.png
+Tarkaz the Tribeless,Freljord,Epic,01FR021,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR021.png
+Heart of the Fluft,Freljord,Rare,01FR043,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR043.png
+Wyrding Stones,Freljord,Common,01FR033,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR033.png
+Icevale Archer,Freljord,Common,01FR011,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR011.png
+Kindly Tavernkeeper,Freljord,Common,01FR050,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR050.png
+She Who Wanders,Freljord,Epic,01FR052,Unit,10,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR052.png
+Poro Snax,Freljord,Common,01FR016,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR016.png
+Battle Fury,Freljord,Rare,01FR005,Spell,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR005.png
+Warmother's Call,Freljord,Epic,01FR023,Spell,12,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR023.png
+Feral Mystic,Freljord,Common,01FR047,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR047.png
+Icy Yeti,Freljord,Rare,01FR056,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR056.png
+Bull Elnuk,Freljord,Common,01FR027,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR027.png
+Pack Mentality,Freljord,Rare,01FR057,Spell,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR057.png
+Elixir of Iron,Freljord,Common,01FR004,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR004.png
+Avarosan Trapper,Freljord,Common,01FR048,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR048.png
+Troop of Elnuks,Freljord,Common,01FR017,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR017.png
+Take Heart,Freljord,Rare,01FR046,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR046.png
+Catalyst of Aeons,Freljord,Common,01FR012,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR012.png
+Rimetusk Shaman,Freljord,Rare,01FR040,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR040.png
+Ancient Yeti,Freljord,Rare,01FR031,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR031.png
+Mighty Poro,Freljord,Common,01FR053,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR053.png
+Bloodsworn Pledge,Freljord,Rare,01FR010,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR010.png
+Flash Freeze,Freljord,Rare,01FR001,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR001.png
+Starlit Seer,Freljord,Rare,01FR032,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR032.png
+Tall Tales,Freljord,Common,01FR051,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR051.png
+They Who Endure,Freljord,Rare,01FR034,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR034.png
+Babbling Bjerg,Freljord,Common,01FR007,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR007.png
+Avarosan Sentry,Freljord,Common,01FR003,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01FR003.png
+Phantom Prankster,ShadowIsles,Rare,01SI038,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI038.png
+Glimpse Beyond,ShadowIsles,Common,01SI049,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI049.png
+Elise,ShadowIsles,Champion,01SI053,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI053.png
+Ancient Crocolith,ShadowIsles,Rare,01SI057,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI057.png
+Soul Shepherd,ShadowIsles,Common,01SI023,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI023.png
+Onslaught of Shadows,ShadowIsles,Common,01SI010,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI010.png
+Hecarim,ShadowIsles,Champion,01SI042,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI042.png
+Fresh Offerings,ShadowIsles,Rare,01SI027,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI027.png
+Cursed Keeper,ShadowIsles,Common,01SI048,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI048.png
+Scribe of Sorrows,ShadowIsles,Common,01SI018,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI018.png
+Kalista,ShadowIsles,Champion,01SI030,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI030.png
+Rhasa the Sunderer,ShadowIsles,Epic,01SI035,Unit,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI035.png
+Scuttlegeist,ShadowIsles,Rare,01SI005,Unit,10,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI005.png
+Sinister Poro,ShadowIsles,Common,01SI037,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI037.png
+Thresh,ShadowIsles,Champion,01SI052,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI052.png
+Commander Ledros,ShadowIsles,Epic,01SI033,Unit,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI033.png
+The Harrowing,ShadowIsles,Epic,01SI003,Spell,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI003.png
+The Undying,ShadowIsles,Epic,01SI041,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI041.png
+Absorb Soul,ShadowIsles,Common,01SI045,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI045.png
+Crawling Sensation,ShadowIsles,Common,01SI036,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI036.png
+Tortured Prodigy,ShadowIsles,Rare,01SI051,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI051.png
+Oblivious Islander,ShadowIsles,Common,01SI012,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI012.png
+Iron Harbinger,ShadowIsles,Rare,01SI031,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI031.png
+Black Spear,ShadowIsles,Common,01SI034,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI034.png
+Hapless Aristocrat,ShadowIsles,Common,01SI043,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI043.png
+Stirred Spirits,ShadowIsles,Common,01SI009,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI009.png
+Haunted Relic,ShadowIsles,Common,01SI007,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI007.png
+Frenzied Skitterer,ShadowIsles,Rare,01SI056,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI056.png
+Vengeance,ShadowIsles,Common,01SI001,Spell,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI001.png
+The Box,ShadowIsles,Rare,01SI019,Spell,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI019.png
+Mistwraith,ShadowIsles,Common,01SI014,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI014.png
+Mark of the Isles,ShadowIsles,Common,01SI022,Spell,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI022.png
+Possession,ShadowIsles,Rare,01SI006,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI006.png
+Splinter Soul,ShadowIsles,Rare,01SI028,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI028.png
+Atrocity,ShadowIsles,Rare,01SI025,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI025.png
+Ravenous Butcher,ShadowIsles,Common,01SI011,Unit,0,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI011.png
+Mist's Call,ShadowIsles,Common,01SI046,Spell,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI046.png
+Brood Awakening,ShadowIsles,Rare,01SI050,Spell,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI050.png
+Wraithcaller,ShadowIsles,Rare,01SI016,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI016.png
+Shark Chariot,ShadowIsles,Rare,01SI021,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI021.png
+Chronicler of Ruin,ShadowIsles,Common,01SI032,Unit,4,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI032.png
+Ethereal Remitter,ShadowIsles,Rare,01SI058,Unit,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI058.png
+Grasp of the Undying,ShadowIsles,Common,01SI054,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI054.png
+Spectral Matron,ShadowIsles,Epic,01SI044,Unit,8,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI044.png
+Arachnoid Horror,ShadowIsles,Common,01SI039,Unit,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI039.png
+The Rekindler,ShadowIsles,Rare,01SI020,Unit,7,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI020.png
+Withering Wail,ShadowIsles,Common,01SI029,Spell,5,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI029.png
+Darkwater Scourge,ShadowIsles,Common,01SI004,Unit,3,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI004.png
+Warden's Prey,ShadowIsles,Common,01SI026,Unit,1,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI026.png
+Vile Feast,ShadowIsles,Common,01SI040,Spell,2,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI040.png
+The Ruination,ShadowIsles,Epic,01SI015,Spell,9,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI015.png
+Soulgorger,ShadowIsles,Rare,01SI055,Unit,6,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI055.png
+Fading Memories,ShadowIsles,Rare,01SI047,Spell,0,http://dd.b.pvp.net/2_4_0/set1/en_us/img/cards/01SI047.png
+Subpurrsible,PiltoverZaun,Epic,02PZ001,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ001.png
+Veteran Investigator,PiltoverZaun,Common,02PZ010,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ010.png
+Gotcha!,PiltoverZaun,Common,02PZ006,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ006.png
+Vault Breaker,PiltoverZaun,Rare,02PZ004,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ004.png
+Insightful Investigator,PiltoverZaun,Rare,02PZ007,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ007.png
+Chief Mechanist Zevi,PiltoverZaun,Epic,02PZ002,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ002.png
+Vi,PiltoverZaun,Champion,02PZ008,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ008.png
+Trail of Evidence,PiltoverZaun,Common,02PZ009,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ009.png
+Suit Up!,PiltoverZaun,Rare,02PZ003,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ003.png
+Patrol Wardens,PiltoverZaun,Common,02PZ005,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02PZ005.png
+Shellshocker ,Bilgewater,Common,02BW040,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW040.png
+Slippery Waverider,Bilgewater,Common,02BW057,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW057.png
+The Beast Below,Bilgewater,Common,02BW041,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW041.png
+Prowling Cutthroat,Bilgewater,Common,02BW013,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW013.png
+Monkey Idol,Bilgewater,Rare,02BW034,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW034.png
+Devourer of the Depths,Bilgewater,Epic,02BW056,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW056.png
+Crackshot Corsair,Bilgewater,Common,02BW060,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW060.png
+Yordle Grifter,Bilgewater,Rare,02BW011,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW011.png
+Shipwreck Hoarder,Bilgewater,Epic,02BW030,Unit,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW030.png
+Bubble Bear,Bilgewater,Common,02BW019,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW019.png
+Brash Gambler,Bilgewater,Rare,02BW007,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW007.png
+Coral Creatures,Bilgewater,Rare,02BW014,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW014.png
+Jagged Taskmaster,Bilgewater,Epic,02BW055,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW055.png
+Citrus Courier,Bilgewater,Rare,02BW017,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW017.png
+Zap Sprayfin,Bilgewater,Epic,02BW038,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW038.png
+Razorscale Hunter,Bilgewater,Rare,02BW021,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW021.png
+Sheriff Lariette Rose,Bilgewater,Epic,02BW035,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW035.png
+Jagged Butcher,Bilgewater,Common,02BW058,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW058.png
+Riptide Rex,Bilgewater,Epic,02BW028,Unit,8,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW028.png
+Abyssal Eye,Bilgewater,Rare,02BW037,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW037.png
+Petty Officer,Bilgewater,Rare,02BW008,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW008.png
+Dreg Dredgers,Bilgewater,Common,02BW047,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW047.png
+Dreadway Deckhand,Bilgewater,Common,02BW004,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW004.png
+The Dreadway,Bilgewater,Epic,02BW002,Unit,9,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW002.png
+Slotbot,Bilgewater,Rare,02BW016,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW016.png
+Hunting Fleet,Bilgewater,Common,02BW027,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW027.png
+Smooth Soloist,Bilgewater,Rare,02BW050,Unit,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW050.png
+The Syren,Bilgewater,Epic,02BW015,Unit,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW015.png
+Plunder Poro,Bilgewater,Common,02BW010,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW010.png
+Pool Shark,Bilgewater,Common,02BW009,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW009.png
+Hired Gun,Bilgewater,Common,02BW005,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW005.png
+Jaull Hunters,Bilgewater,Rare,02BW039,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW039.png
+Mystifying Magician,Bilgewater,Rare,02BW006,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW006.png
+Golden Narwhal,Bilgewater,Common,02BW036,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW036.png
+Black Market Merchant,Bilgewater,Rare,02BW033,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW033.png
+Gangplank,Bilgewater,Champion,02BW032,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW032.png
+Miss Fortune,Bilgewater,Champion,02BW022,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW022.png
+Fizz,Bilgewater,Champion,02BW046,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW046.png
+Twisted Fate,Bilgewater,Champion,02BW026,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW026.png
+Nautilus,Bilgewater,Champion,02BW053,Unit,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW053.png
+Pocket Aces,Bilgewater,Common,02BW061,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW061.png
+Double Trouble,Bilgewater,Rare,02BW024,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW024.png
+Strong-arm,Bilgewater,Rare,02BW003,Spell,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW003.png
+Chum the Waters,Bilgewater,Common,02BW025,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW025.png
+More Powder!,Bilgewater,Common,02BW012,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW012.png
+Parrrley,Bilgewater,Common,02BW018,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW018.png
+Jailbreak,Bilgewater,Common,02BW048,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW048.png
+Pick a Card,Bilgewater,Rare,02BW043,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW043.png
+Playful Trickster,Bilgewater,Rare,02BW051,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW051.png
+Riptide,Bilgewater,Rare,02BW054,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW054.png
+Mind Meld,Bilgewater,Epic,02BW042,Spell,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW042.png
+Scrapshot,Bilgewater,Rare,02BW059,Spell,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW059.png
+Lure of the Depths,Bilgewater,Rare,02BW023,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW023.png
+Double Up,Bilgewater,Rare,02BW031,Spell,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW031.png
+Salvage,Bilgewater,Common,02BW029,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW029.png
+Pilfered Goods,Bilgewater,Common,02BW049,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW049.png
+Ye Been Warned,Bilgewater,Common,02BW001,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW001.png
+Sleight of Hand,Bilgewater,Rare,02BW063,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW063.png
+Make it Rain,Bilgewater,Common,02BW045,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW045.png
+Warning Shot,Bilgewater,Common,02BW020,Spell,0,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW020.png
+Jettison,Bilgewater,Rare,02BW044,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW044.png
+Island Navigator,Bilgewater,Rare,02BW062,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02BW062.png
+Wolfrider,Freljord,Common,02FR009,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR009.png
+Caught in the Cold,Freljord,Rare,02FR004,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR004.png
+Sejuani,Freljord,Champion,02FR002,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR002.png
+Ember Maiden,Freljord,Rare,02FR001,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR001.png
+Ursine Spiritwalker,Freljord,Common,02FR005,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR005.png
+Shared Spoils,Freljord,Rare,02FR010,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR010.png
+The Tuskraider,Freljord,Epic,02FR008,Unit,8,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR008.png
+Fury of the North,Freljord,Common,02FR007,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR007.png
+Ruthless Raider,Freljord,Common,02FR006,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR006.png
+Aurora Porealis,Freljord,Epic,02FR003,Spell,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02FR003.png
+The Leviathan,Noxus,Epic,02NX001,Unit,8,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX001.png
+Swain,Noxus,Champion,02NX007,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX007.png
+Citybreaker,Noxus,Rare,02NX006,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX006.png
+Aurok Glinthorn ,Noxus,Epic,02NX002,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX002.png
+Ravenous Flock,Noxus,Rare,02NX009,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX009.png
+Imperial Demolitionist,Noxus,Common,02NX004,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX004.png
+Noxian Fervor,Noxus,Common,02NX003,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX003.png
+Armored Tuskrider,Noxus,Rare,02NX010,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX010.png
+Death's Hand,Noxus,Common,02NX008,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX008.png
+Iron Ballista,Noxus,Common,02NX005,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02NX005.png
+Loyal Badgerbear,Demacia,Common,02DE003,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE003.png
+Greathorn Companion,Demacia,Common,02DE008,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE008.png
+Greenfang Warden,Demacia,Common,02DE004,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE004.png
+Quinn,Demacia,Champion,02DE006,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE006.png
+Grizzled Ranger,Demacia,Rare,02DE009,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE009.png
+Unyielding Spirit,Demacia,Epic,02DE005,Spell,8,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE005.png
+Blinding Assault,Demacia,Rare,02DE002,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE002.png
+Genevieve Elmheart,Demacia,Epic,02DE010,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE010.png
+Ranger's Resolve,Demacia,Rare,02DE007,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE007.png
+Concerted Strike,Demacia,Common,02DE001,Spell,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02DE001.png
+Sap Magic,ShadowIsles,Rare,02SI005,Spell,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI005.png
+Deadbloom Wanderer,ShadowIsles,Common,02SI010,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI010.png
+Maokai,ShadowIsles,Champion,02SI008,Unit,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI008.png
+Thorny Toad,ShadowIsles,Common,02SI007,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI007.png
+Terror of the Tides,ShadowIsles,Epic,02SI003,Unit,8,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI003.png
+Neverglade Collector,ShadowIsles,Rare,02SI001,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI001.png
+Overgrown Snapvine,ShadowIsles,Epic,02SI002,Unit,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI002.png
+Blighted Caretaker,ShadowIsles,Rare,02SI004,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI004.png
+Barkbeast,ShadowIsles,Common,02SI006,Unit,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI006.png
+Sapling Toss,ShadowIsles,Common,02SI009,Spell,1,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02SI009.png
+Sonic Wave,Ionia,Common,02IO008,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO008.png
+Scales of the Dragon,Ionia,Common,02IO002,Unit,3,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO002.png
+Lee Sin,Ionia,Champion,02IO006,Unit,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO006.png
+Horns of the Dragon,Ionia,Common,02IO004,Unit,6,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO004.png
+Eye of the Dragon,Ionia,Epic,02IO003,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO003.png
+Claws of the Dragon,Ionia,Common,02IO001,Unit,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO001.png
+Concussive Palm,Ionia,Rare,02IO005,Spell,4,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO005.png
+Retreat,Ionia,Rare,02IO010,Spell,2,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO010.png
+Dragon's Rage,Ionia,Epic,02IO007,Spell,7,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO007.png
+Deep Meditation,Ionia,Rare,02IO009,Spell,5,http://dd.b.pvp.net/2_3_0/set2/en_us/img/cards/02IO009.png
+Hunt the Weak,Noxus,Rare,03NX019,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX019.png
+Wild Claws,Noxus,Epic,03NX022,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX022.png
+Riven,Noxus,Champion,03NX007,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX007.png
+Weapon Hilt,Noxus,Common,03NX006,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX006.png
+Arrel the Tracker,Noxus,Epic,03NX002,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX002.png
+Apprehend,Noxus,Rare,03NX018,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX018.png
+Wrathful Rider,Noxus,Common,03NX009,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX009.png
+Basilisk Bloodseeker,Noxus,Epic,03NX017,Unit,7,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX017.png
+Survival Skills,Noxus,Rare,03NX015,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX015.png
+Sharpened Resolve,Noxus,Common,03NX014,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX014.png
+Blade Squire,Noxus,Common,03NX003,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX003.png
+Runeweaver,Noxus,Common,03NX001,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX001.png
+Brutal Hunter,Noxus,Rare,03NX005,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX005.png
+Jack, the Winner,Bilgewater,Epic,03BW006,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW006.png
+Bayou Brunch,Bilgewater,Common,03BW010,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW010.png
+Sunk Cost,Bilgewater,Rare,03BW005,Spell,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW005.png
+Tahm Kench,Bilgewater,Champion,03BW004,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW004.png
+Lounging Lizard,Bilgewater,Common,03BW002,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW002.png
+Monkey Business,Bilgewater,Common,03BW014,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW014.png
+Boxtopus,Bilgewater,Common,03BW007,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW007.png
+Boomship,Bilgewater,Rare,03BW016,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW016.png
+The Slaughter Docks,Bilgewater,Epic,03BW001,Landmark,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW001.png
+Crusty Codger,Bilgewater,Common,03BW015,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW015.png
+Wise Fry,Bilgewater,Rare,03BW003,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW003.png
+Wiggly Burblefish,Bilgewater,Epic,03BW017,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW017.png
+Fortune Croaker,Bilgewater,Common,03BW008,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW008.png
+Powder Pandemonium,Bilgewater,Epic,03BW020,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW020.png
+Shakedown,Bilgewater,Rare,03BW009,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03BW009.png
+The Grand Plaza,Demacia,Epic,03DE010,Landmark,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE010.png
+Divergent Paths,Targon,Common,03MT005,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT005.png
+The Howling Abyss,Freljord,Epic,03FR009,Landmark,7,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR009.png
+Vaults of Helia,ShadowIsles,Epic,03SI009,Landmark,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI009.png
+Star Spring,Targon,Epic,03MT052,Landmark,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT052.png
+Monastery of Hirana,Ionia,Epic,03IO006,Landmark,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO006.png
+Scorched Earth,Noxus,Common,03NX013,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX013.png
+Noxkraya Arena,Noxus,Epic,03NX004,Landmark,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03NX004.png
+Captain Arrika,Demacia,Rare,03DE004,Unit,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE004.png
+Homecoming,Ionia,Common,03IO005,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO005.png
+Crumble,ShadowIsles,Rare,03SI008,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI008.png
+Targon's Peak,Targon,Epic,03MT064,Landmark,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT064.png
+The University of Piltover,PiltoverZaun,Epic,03PZ001,Landmark,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ001.png
+It That Stares,Freljord,Rare,03FR003,Unit,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR003.png
+Starry Scamp,Targon,Common,03MT079,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT079.png
+Behold the Infinite ,Targon,Common,03MT015,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT015.png
+The Fangs,Targon,Epic,03MT221,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT221.png
+Lunari Duskbringer,Targon,Common,03MT073,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT073.png
+Aphelios,Targon,Champion,03MT217,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT217.png
+Sneaky Zeebles,Targon,Common,03MT001,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT001.png
+Broadbacked Protector,Targon,Epic,03MT060,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT060.png
+Grandfather Rumul,Targon,Rare,03MT033,Unit,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT033.png
+The Infinite Mindsplitter,Targon,Epic,03MT021,Unit,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT021.png
+Diana,Targon,Champion,03MT056,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT056.png
+Crystal Ibex,Targon,Common,03MT067,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT067.png
+Mountain Goat,Targon,Rare,03MT092,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT092.png
+Soraka,Targon,Champion,03MT055,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT055.png
+Gift Giver,Targon,Common,03MT048,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT048.png
+Moondreamer,Targon,Common,03MT063,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT063.png
+Inviolus Vox,Targon,Epic,03MT006,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT006.png
+Leona,Targon,Champion,03MT054,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT054.png
+Herald of Dragons,Targon,Rare,03MT014,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT014.png
+Taric,Targon,Champion,03MT058,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT058.png
+Sunblessed Vigor,Targon,Common,03MT098,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT098.png
+Sparklefly,Targon,Common,03MT040,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT040.png
+Hush,Targon,Rare,03MT085,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT085.png
+The Cloven Way,Targon,Rare,03MT220,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT220.png
+Lunari Priestess,Targon,Rare,03MT075,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT075.png
+Resplendent Stellacorn,Targon,Common,03MT020,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT020.png
+Tyari the Traveler,Targon,Common,03MT071,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT071.png
+The Skies Descend,Targon,Epic,03MT002,Spell,15,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT002.png
+Zoe,Targon,Champion,03MT009,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT009.png
+Spacey Sketcher,Targon,Rare,03MT086,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT086.png
+Aurelion Sol,Targon,Champion,03MT087,Unit,10,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT087.png
+Bastion,Targon,Common,03MT019,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT019.png
+The Flight,Targon,Rare,03MT214,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT214.png
+Moonlight Affliction,Targon,Common,03MT013,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT013.png
+Wish,Targon,Rare,03MT008,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT008.png
+Sunburst,Targon,Rare,03MT023,Spell,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT023.png
+Solari Priestess,Targon,Rare,03MT096,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT096.png
+Astral Protection,Targon,Common,03MT045,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT045.png
+Spring Guardian,Targon,Common,03MT080,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT080.png
+Spell Thief,Targon,Rare,03MT042,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT042.png
+Solari Sunforger,Targon,Common,03MT057,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT057.png
+Supercool Starchart,Targon,Rare,03MT091,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT091.png
+Sun Guardian,Targon,Epic,03MT044,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT044.png
+Mentor of the Stones,Targon,Epic,03MT041,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT041.png
+Solari Shieldbearer,Targon,Common,03MT028,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT028.png
+Fused Firebrand,Targon,Common,03MT072,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT072.png
+Shards of the Mountain,Targon,Epic,03MT025,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT025.png
+Messenger's Sigil,Targon,Rare,03MT017,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT017.png
+Guiding Touch,Targon,Common,03MT051,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT051.png
+Arbiter of the Peak,Targon,Epic,03MT012,Unit,10,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT012.png
+Lunari Shadestalker,Targon,Common,03MT094,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT094.png
+Mountain Scryer,Targon,Rare,03MT076,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT076.png
+Gifts From Beyond,Targon,Common,03MT215,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT215.png
+Eclipse Dragon,Targon,Rare,03MT100,Unit,7,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT100.png
+Star Shepherd,Targon,Rare,03MT029,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT029.png
+The Veiled Temple,Targon,Rare,03MT219,Landmark,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT219.png
+Giddy Sparkleologist,Targon,Rare,03MT062,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT062.png
+Morning Light,Targon,Rare,03MT082,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT082.png
+Cygnus the Moonstalker,Targon,Epic,03MT047,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT047.png
+Whiteflame Protector,Targon,Common,03MT038,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT038.png
+Mountain Sojourners,Targon,Epic,03MT081,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT081.png
+Fledgling Stellacorn,Targon,Common,03MT007,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT007.png
+Sky Charge,Targon,Common,03MT220T1,Ability,0,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT220T1.png
+The Sky Shadows,Targon,Common,03MT216,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT216.png
+Rahvun, Daylight's Spear,Targon,Rare,03MT026,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT026.png
+Paddle Star,Targon,Common,03MT093,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT093.png
+Out Of The Way,Targon,Epic,03MT110,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT110.png
+Dragon's Clutch,Targon,Rare,03MT003,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT003.png
+Stargazer,Targon,Rare,03MT030,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT030.png
+Solari Soldier,Targon,Common,03MT088,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT088.png
+Crescent Guardian,Targon,Rare,03MT089,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT089.png
+Zenith Blade,Targon,Common,03MT027,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT027.png
+Starbone,Targon,Epic,03MT218,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT218.png
+Starshaping,Targon,Common,03MT084,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT084.png
+Startled Stomper,Targon,Common,03MT016,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT016.png
+Sleepy Trouble Bubble,Targon,Rare,03MT074,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT074.png
+Pale Cascade,Targon,Common,03MT035,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT035.png
+Blessing of Targon,Targon,Rare,03MT036,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT036.png
+Porofly,Targon,Common,03MT039,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03MT039.png
+Patched Porobot,PiltoverZaun,Rare,03PZ019,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ019.png
+Ballistic Bot,PiltoverZaun,Common,03PZ005,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ005.png
+Death Ray - Mk 1,PiltoverZaun,Rare,03PZ004,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ004.png
+Viktor,PiltoverZaun,Champion,03PZ003,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ003.png
+Mechanized Mimic,PiltoverZaun,Epic,03PZ010,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ010.png
+Give It All,PiltoverZaun,Epic,03PZ022,Spell,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ022.png
+Calculated Creations,PiltoverZaun,Common,03PZ014,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ014.png
+Iterative Improvement,PiltoverZaun,Common,03PZ013,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ013.png
+Stress Testing,PiltoverZaun,Rare,03PZ025,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ025.png
+Armed Gearhead,PiltoverZaun,Common,03PZ012,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ012.png
+Hexcore Foundry,PiltoverZaun,Rare,03PZ020,Landmark,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ020.png
+Nyandroid,PiltoverZaun,Rare,03PZ002,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ002.png
+Aftershock,PiltoverZaun,Common,03PZ011,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ011.png
+Tri-beam Improbulator,PiltoverZaun,Epic,03PZ017,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ017.png
+Poro Cannon,PiltoverZaun,Common,03PZ018,Spell,0,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03PZ018.png
+Stalking Shadows,ShadowIsles,Rare,03SI004,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI004.png
+Evershade Stalker,ShadowIsles,Epic,03SI001,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI001.png
+Gluttony,ShadowIsles,Rare,03SI018,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI018.png
+Passage Unearned,ShadowIsles,Rare,03SI012,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI012.png
+Encroaching Shadows,ShadowIsles,Epic,03SI014,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI014.png
+Go Hard,ShadowIsles,Epic,03SI016,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI016.png
+Shroud of Darkness,ShadowIsles,Common,03SI007,Spell,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI007.png
+Risen Mists,ShadowIsles,Common,03SI013,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI013.png
+Nocturne,ShadowIsles,Champion,03SI005,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI005.png
+Doombeast,ShadowIsles,Common,03SI006,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI006.png
+Pesky Specter,ShadowIsles,Common,03SI015,Unit,0,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI015.png
+Stygian Onlooker,ShadowIsles,Common,03SI003,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI003.png
+Unspeakable Horror,ShadowIsles,Common,03SI002,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI002.png
+Duskrider,ShadowIsles,Rare,03SI010,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03SI010.png
+Flurry of Fists,Ionia,Rare,03IO025,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO025.png
+Pix!,Ionia,Common,03IO017,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO017.png
+Whimsy!,Ionia,Common,03IO008,Spell,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO008.png
+Flower Child,Ionia,Common,03IO001,Unit,1,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO001.png
+Singular Will,Ionia,Epic,03IO019,Spell,10,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO019.png
+Lulu,Ionia,Champion,03IO002,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO002.png
+Swole Squirrel,Ionia,Rare,03IO011,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO011.png
+Tasty Faefolk,Ionia,Common,03IO009,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO009.png
+Fae Guide,Ionia,Rare,03IO003,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO003.png
+Trevor Snoozebottom,Ionia,Epic,03IO007,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO007.png
+Young Witch,Ionia,Common,03IO010,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO010.png
+Nopeify!,Ionia,Rare,03IO020,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO020.png
+Go Get It,Ionia,Epic,03IO022,Spell,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO022.png
+Fuzzy Caretaker,Ionia,Rare,03IO018,Unit,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03IO018.png
+Dragonguard Lieutenant,Demacia,Common,03DE008,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE008.png
+Confront,Demacia,Common,03DE001,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE001.png
+Stony Suppressor,Demacia,Rare,03DE015,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE015.png
+Screeching Dragon,Demacia,Common,03DE006,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE006.png
+Molten Breath,Demacia,Rare,03DE025,Spell,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE025.png
+Strafing Strike,Demacia,Rare,03DE002,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE002.png
+Shyvana,Demacia,Champion,03DE011,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE011.png
+Dragonguard Lookout,Demacia,Rare,03DE003,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE003.png
+Stalking Broodmother,Demacia,Common,03DE013,Unit,7,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE013.png
+Egghead Researcher,Demacia,Common,03DE005,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE005.png
+Kadregrin the Infernal,Demacia,Epic,03DE007,Unit,9,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE007.png
+For The Fallen,Demacia,Epic,03DE012,Spell,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE012.png
+Sharpsight,Demacia,Common,03DE014,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03DE014.png
+The Scargrounds,Freljord,Epic,03FR020,Landmark,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR020.png
+Troll Scavenger,Freljord,Common,03FR007,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR007.png
+Revitalizing Roar,Freljord,Rare,03FR004,Spell,7,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR004.png
+Augur of the Old Ones,Freljord,Rare,03FR017,Unit,6,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR017.png
+Trundle,Freljord,Champion,03FR006,Unit,5,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR006.png
+Icequake ,Freljord,Epic,03FR008,Spell,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR008.png
+Troll Chant,Freljord,Common,03FR002,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR002.png
+Uzgar the Ancient,Freljord,Rare,03FR011,Unit,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR011.png
+Troll Ravager,Freljord,Common,03FR005,Unit,4,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR005.png
+Call the Wild,Freljord,Common,03FR018,Spell,3,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR018.png
+Faces of the Old Ones,Freljord,Common,03FR010,Unit,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR010.png
+Voices of the Old Ones,Freljord,Common,03FR019,Spell,8,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR019.png
+Troll Gifts,Freljord,Rare,03FR025,Spell,2,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR025.png
+Feel The Rush,Freljord,Epic,03FR022,Spell,12,http://dd.b.pvp.net/2_3_0/set3/en_us/img/cards/03FR022.png
+Unworthy,Shurima,Epic,04SH070,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH070.png
+Baccai Sandspinner,Shurima,Rare,04SH081,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH081.png
+Voice of the Risen,Shurima,Epic,04SH077,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH077.png
+Desert Naturalist,Shurima,Rare,04SH089,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH089.png
+Raz Bloodmane,Shurima,Epic,04SH015,Unit,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH015.png
+Sandcrafter,Shurima,Common,04SH058,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH058.png
+Payday,Shurima,Common,04SH035,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH035.png
+Ancient Preparations,Shurima,Common,04SH028,Landmark,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH028.png
+Baccai Reaper,Shurima,Rare,04SH002,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH002.png
+Hibernating Rockbear,Shurima,Common,04SH042,Landmark,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH042.png
+Callous Bonecrusher,Shurima,Common,04SH032,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH032.png
+Ruin Runner,Shurima,Common,04SH055,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH055.png
+Taliyah,Shurima,Champion,04SH073,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH073.png
+Khahiri the Student,Shurima,Common,04SH091,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH091.png
+Salt Spire,Shurima,Common,04SH024,Landmark,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH024.png
+Azir,Shurima,Champion,04SH003,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH003.png
+Xenotype Researchers,Shurima,Rare,04SH011,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH011.png
+Desert's Wrath,Shurima,Rare,04SH114,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH114.png
+Renekton,Shurima,Champion,04SH067,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH067.png
+Ricochet,Shurima,Common,04SH119,Spell,6,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH119.png
+Shaped Stone,Shurima,Common,04SH093,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH093.png
+Rock Hopper,Shurima,Common,04SH038,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH038.png
+Arise!,Shurima,Rare,04SH099,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH099.png
+Inner Sanctum,Shurima,Common,04SH048,Landmark,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH048.png
+Sivir,Shurima,Champion,04SH020,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH020.png
+Inspiring Marshal,Shurima,Rare,04SH057,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH057.png
+Roiling Sands,Shurima,Common,04SH006,Landmark,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH006.png
+Ruinous Path,Shurima,Rare,04SH082,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH082.png
+Emperor's Divide,Shurima,Epic,04SH075,Spell,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH075.png
+Rite of Dominance,Shurima,Rare,04SH018,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH018.png
+Rampaging Baccai,Shurima,Rare,04SH009,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH009.png
+Destined Poro,Shurima,Common,04SH049,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH049.png
+Exhaust,Shurima,Common,04SH045,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH045.png
+Unraveled Earth,Shurima,Rare,04SH037,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH037.png
+Ascended's Rise,Shurima,Epic,04SH107,Spell,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH107.png
+Nasus,Shurima,Champion,04SH047,Unit,6,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH047.png
+Sanctum Conservator,Shurima,Epic,04SH097,Unit,8,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH097.png
+Dunekeeper,Shurima,Common,04SH026,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH026.png
+Golden Ambassador,Shurima,Common,04SH102,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH102.png
+Aspiring Chronomancer,Shurima,Common,04SH001,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH001.png
+Preservarium,Shurima,Rare,04SH013,Landmark,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH013.png
+Buried Sun Disc,Shurima,Epic,04SH062,Landmark,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH062.png
+Siphoning Strike,Shurima,Rare,04SH016,Spell,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH016.png
+Boomerang Blade,Shurima,Rare,04SH108,Spell,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH108.png
+Clockling,Shurima,Common,04SH014,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH014.png
+Khahiri the Returned,Shurima,Rare,04SH021,Unit,6,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH021.png
+Devoted Council,Shurima,Rare,04SH101,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH101.png
+Esteemed Hierophant,Shurima,Common,04SH012,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH012.png
+Promising Future,Shurima,Epic,04SH031,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH031.png
+Weight of Judgment,Shurima,Common,04SH004,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH004.png
+Rite of Negation,Shurima,Epic,04SH059,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH059.png
+Ancient Hourglass,Shurima,Rare,04SH076,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH076.png
+Waking Sands,Shurima,Common,04SH118,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH118.png
+Sai Scout,Shurima,Common,04SH041,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH041.png
+Bloodthirsty Marauder,Shurima,Common,04SH005,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH005.png
+Sandstone Chimera,Shurima,Rare,04SH046,Unit,12,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH046.png
+Sandswept Tomb,Shurima,Rare,04SH105,Landmark,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH105.png
+Ruthless Predator,Shurima,Common,04SH069,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH069.png
+Rite of Calling,Shurima,Common,04SH121,Spell,0,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH121.png
+Stoneweaving,Shurima,Epic,04SH110,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH110.png
+Emperor's Dais,Shurima,Rare,04SH051,Landmark,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH051.png
+Spirit Fire,Shurima,Rare,04SH106,Spell,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH106.png
+Quicksand,Shurima,Common,04SH109,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH109.png
+Grumpy Rockbear,Shurima,Common,04SH090,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SH090.png
+Draklorn Inquisitor,Freljord,Epic,04FR006,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR006.png
+Spoils of War,Freljord,Common,04FR016,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR016.png
+Cold Resistance,Freljord,Common,04FR013,Spell,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR013.png
+Lissandra,Freljord,Champion,04FR005,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR005.png
+Frozen Thrall,Freljord,Common,04FR001,Landmark,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR001.png
+Entomb,Freljord,Rare,04FR007,Spell,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR007.png
+Ancestral Boon,Freljord,Common,04FR017,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR017.png
+Blighted Ravine,Freljord,Rare,04FR014,Landmark,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR014.png
+Ice Shard,Freljord,Common,04FR009,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR009.png
+Three Sisters,Freljord,Rare,04FR010,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04FR010.png
+Whispered Words,Noxus,Rare,04NX002,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX002.png
+Thorn of the Rose,Noxus,Common,04NX010,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX010.png
+Bloody Business,Noxus,Common,04NX015,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX015.png
+Black Rose Spy,Noxus,Epic,04NX006,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX006.png
+Mimic,Noxus,Rare,04NX001,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX001.png
+LeBlanc,Noxus,Champion,04NX004,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX004.png
+Shrieking Spinner,Noxus,Rare,04NX016,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX016.png
+Crimson Bloodletter ,Noxus,Common,04NX018,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX018.png
+Sigil of Malice,Noxus,Common,04NX003,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX003.png
+Strength in Numbers,Noxus,Common,04NX017,Spell,8,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04NX017.png
+Kindred,ShadowIsles,Champion,04SI005,Unit,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI005.png
+Spirit Leech ,ShadowIsles,Common,04SI016,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI016.png
+The Etherfiend,ShadowIsles,Rare,04SI007,Unit,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI007.png
+Unto Dusk,ShadowIsles,Rare,04SI011,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI011.png
+Sea Scarab,ShadowIsles,Rare,04SI015,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI015.png
+Song of the Isles,ShadowIsles,Common,04SI017,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI017.png
+Lamb's Respite,ShadowIsles,Epic,04SI001,Spell,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI001.png
+Soulspinner,ShadowIsles,Common,04SI009,Unit,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI009.png
+Mask Mother,ShadowIsles,Common,04SI013,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI013.png
+Spirit Journey,ShadowIsles,Rare,04SI002,Spell,5,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI002.png
+Fading Icon,ShadowIsles,Common,04SI003,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI003.png
+Prey,ShadowIsles,Common,04SI014,Unit,0,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04SI014.png
+Production Surge,PiltoverZaun,Rare,04PZ014,Spell,0,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04PZ014.png
+Concurrent Timelines,PiltoverZaun,Epic,04PZ010,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04PZ010.png
+Startipped Peak,Targon,Rare,04MT010,Landmark,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04MT010.png
+Destiny's Call,Targon,Epic,04MT012,Spell,8,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04MT012.png
+Dragon Chow,Demacia,Common,04DE014,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE014.png
+Honored Lord,Demacia,Common,04DE001,Unit,2,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE001.png
+Cataclysm,Demacia,Rare,04DE003,Spell,3,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE003.png
+Golden Aegis,Demacia,Rare,04DE002,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE002.png
+Battlefield Prowess,Demacia,Common,04DE006,Spell,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE006.png
+Jarvan IV,Demacia,Champion,04DE008,Unit,6,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE008.png
+King Jarvan III,Demacia,Epic,04DE010,Unit,7,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE010.png
+Towering Stonehorn,Demacia,Common,04DE013,Unit,6,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE013.png
+Penitent Squire,Demacia,Common,04DE007,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE007.png
+Gallant Rider,Demacia,Rare,04DE009,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04DE009.png
+Loaded Dice,Bilgewater,Epic,04BW011,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04BW011.png
+Lost Riches,Bilgewater,Rare,04BW008,Spell,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04BW008.png
+Shadow Apprentice,Ionia,Common,04IO014,Unit,1,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04IO014.png
+Field Musicians,Ionia,Epic,04IO001,Unit,4,http://dd.b.pvp.net/2_3_0/set4/en_us/img/cards/04IO001.png
