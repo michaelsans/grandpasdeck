@@ -9,16 +9,25 @@
 </head>
 <body>
 {% block content %}
-<main class="Caixashome">
-    <p><h1>Welcome to your's Grandpa's Store</h1></p>
-    <p>I've been collecting cards from all regions and now i will pass my best deck to you,
-         use him wisely and remember your grandpa's deck have no useless card. If you want to know more about the rules click here
-    </p>
-</main>
-<div class='CaixaBotãohome'>
-    <button class="button" onclick= "location.href='{% url 'codigos' %}'">Duel!</button> <hr>
+<div class="header">
+            
 </div>
-
+<div class="headerada">     
+</div>
+<div class="row">
+    <div class="column side"></div>
+    <div class="column intro">
+        <p><h1>Welcome to your's Grandpa's Store</h1></p>
+        <p>I've been collecting cards from all regions and now i will pass my best deck to you,
+            use him wisely and remember your grandpa's deck have no useless card. If you want to know more about the rules click here
+        </p>
+    </div>
+    <div class="column side"></div>
+    <div class="column side"></div>
+    <div class="column side">
+        <button class="button" onclick= "location.href='{% url 'codigos' %}'">Duel!</button> <hr>
+    </div>
+    </div>
 {% endblock %}   
 </body>
 </html>

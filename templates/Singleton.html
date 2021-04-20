@@ -1,59 +1,66 @@
 {% extends "templates/base.html" %}
 {% load static %}
-
 <!DOCTYPE html>
 <html>
     <head>
-        {% block title %} Grandpas Deck SINGLETON {% endblock %}
-        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+        {% block title %} Grandpas Deck {% endblock %}
+        <link rel="stylesheet" href="{% static 'css/Sytlesheet.css' %}">
     </head>
-    <body>
-        <main class="Caixas">
             {% block content %}
-            <div class='CaixaCampeoes'>
-                <h1>Campeões</h1>
-                {% for x in imagemCampeoes %}
-                <div class="hover_img">
-                    <div class='Campeoes'>
-                        <img src='{{x}}' alt="image" height="300"/>
-                    </div>
-                </div>
-                {% endfor %}
+            <div class="header">
+            
             </div>
+            <div class="headerada">     
+            </div>  
+            <div class="row">
+                
+                <div class="column side"></div>
+                <div class="column side">
+                    <h1>Campeões</h1>
+                    {% for x in imagemCampeoes %}
+                    <div class="hover_img">
+                        <div class='Campeoes'>
+                            <img src='{{x}}' alt="image" height="300"/>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
 
-            <div class='CaixaUnidades'>
-            <h1>Unidades</h1>
-                {% for x in imagemUnidades %}
-                <div class="hover_img">
-                    <div class='Unidades'>
-                        <img src='{{x}}' alt="image" height="300"/>
+                <div class="column middle">
+                    <h1>Unidades</h1>
+                    {% for x in imagemUnidades %}
+                    <div class="hover_img">
+                        <div class='Unidades'>
+                            <img src='{{x}}' alt="image" height="300"/>
+                        </div>
                     </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
-            </div>
 
-            <div class='CaixaFeiticos'>
-            <h1>Feitiços</h1>
-                {% for x in imagemFeiticos %}
-                <div class="hover_img">
-                    <div class='Feiticos'>
-                        <img src='{{x}}' alt="image" height="300"/>
+                <div class="column side">
+                    <h1>Feitiços</h1>
+                    {% for x in imagemFeiticos %}
+                    <div class="hover_img">
+                        <div class='Feiticos'>
+                            <img src='{{x}}' alt="image" height="300"/>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="column side" ">
+                    <div class='CaixaBotão'>
+                        <button class="button" onclick= "location.href='{% url 'codigos' %}'">Duel!</button>
+                        <button class="button2">
+                        COPY DECKCODE
+                    </button>
                     </div>
                 </div>
-                {% endfor %}
-            </div>
-            <main class="maiscaixas">
-                <div class='CaixaBotão'>
-                    <button class="button" onclick= "location.href='{% url 'singleton' %}'">Duel!</button> <hr>
-                    <button class="button2">
-                    {% if data %}
-                    {{span}}
-                    {% endif %}
-                    COPY DECKCODE
-                </button> <hr>
-                </div>
-            </main>
+
+                <div class="column side"></div>
+
+
+            </div>           
             {% endblock %}
         </main>
-    </body>
 </html>

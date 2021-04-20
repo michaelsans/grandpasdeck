@@ -5,32 +5,29 @@
 
 <head>
     <title>{% block title %}{% endblock %}</title>
-    <link rel="stylesheet" href="{% static 'css/blog.css' %}">  
+    <link rel="stylesheet" href="{% static 'css/Stylesheet.css' %}">  
 </head>
 <body>
-    <header class="menu-principal">
-        <main>
-        <div class="header-1">
-            <div class = "logo">
-                <a href='home'>Grandpas Deck</a>
-            </div>
-            <div class = "Modos-de-jogo">
-                <ul>
-                    <li><a href="standard">Standard</a></li>
-                    <li><a href='Singleton'>Singleton</a></li>
-                    <li><a href="about">Rules</a></li>
-                </ul>
-            </div>
-            <a href="https://discord.gg/N6uY4ppq"><img alt="Qries" src="https://discordapp.com/api/guilds/832694697637052496/widget.png?style=shield"></a>
+    <div class="row">
+        <div class="column side"></div>
+        <div class = "logo">
+            <a href='home'>Grandpas Deck</a>
         </div>
-        </main>
-    </header>
-
-    <header class="header-2">
-    </header>
-    <main>
+        <div class = "Modos-de-jogo">
+            <ul>
+                <li><a href="standard">Standard</a></li>
+                <li><a href='Singleton'>Singleton</a></li>
+                <li><a href="about">Rules</a></li>
+            </ul>
+        </div>
+        <div class="column side">
+            <a href="https://discord.gg/N6uY4ppq"><img alt="Qries" width="50" height="50" src="{% static 'css/logo.jpg' %}"></a>
+        </div>
+    </div>
         {% block content %}
         {% endblock %}
-    </main>
+    <div class="footer"><ul>
+        <li><a href="standard">ABOUT</a></li>
+    </ul></div>
 </body>
 </html>
