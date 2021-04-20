@@ -3,7 +3,6 @@ import requests
 import csv
 import random
 from lor_deckcodes import LoRDeck, CardCodeAndCount
-import pyperclip
 
 singleton = False
 
@@ -92,9 +91,7 @@ def output(request):
     for key in sorted(c):
         imagemUnidades.append(c[key])
     
-    pyperclip.copy(data)
-    spam = pyperclip.paste()
-    return render(request,'standard.html',{'data':data,'spam':spam, 'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
+    return render(request,'standard.html',{'data':data,'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
 
 def Singleton(request):
     for x in range(8):
@@ -175,11 +172,9 @@ def Singleton(request):
     imagemUnidades = []
     for key in sorted(c):
         imagemUnidades.append(c[key])
-
-    pyperclip.copy(data)
-    spam = pyperclip.paste()        
+       
     #print(contador) 
     #print(novodeck)
-    return render(request, 'Singleton.html',{'data':data,'spam':spam, 'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
+    return render(request, 'Singleton.html',{'data':data, 'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
 
   
