@@ -28,28 +28,24 @@ for x in range(8):
             
             #escolhe uma carta aleatoria
             pos = random.randint(1, len(listaCarta))
-
-            #[0]nome [1]região [2]raridade [3]codigo da carta
-            #Proibido escolher a mesma carta duas vezes
-            for x in listaDeck:
-                nomedacarta = listaCarta[pos][0]
-                if x == nomedacarta:
-                    pos = random.randint(1, len(listaCarta) -1)
             
             #a carta deve pertencer à alguma das regiões escolhidas anteriormente e deve ser colecionável
             if listaCarta[pos][2] != 'None' and (listaCarta[pos][1] == escolhaCor[0] or listaCarta[pos][1] == escolhaCor[1]):
                 #escolhe um valor entre 1 e 3, esse valor vai ser a quantidade de cópias da carta escolhida
                 numeroDeCartas = random.randint(1, 3)
                 contador += numeroDeCartas
-
+                #checa se uma carta com nome igual ja esta no deck
+                for x in novodeck:
+                    if x == listaCarta[pos][0]:
+                        contador -= numeroDeCartas
                 #o numero maximo de campeoes é 6
-                if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 6:
+                if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 5:
                     contadordeCampeos = numeroDeCartas
                 
                 #o numero de cartas no deck não pode ser maior do que 40 e o numero de campeoes nao pode ser maior que 6
                 if contador > 41 or contadordeCampeos > 6:
                     contador -= numeroDeCartas
-                
+
                 #esse laço continua ate completar o deck com 40 cartas
                 elif contador <= 41:
                     if listaCarta[pos][2] == 'Champion':
@@ -73,6 +69,6 @@ a = []
 for key in sorted(imagemUnidades):
         a.append(imagemUnidades[key])
 
-print(a)
+print(result)
         
         
