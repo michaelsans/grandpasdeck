@@ -19,7 +19,8 @@ from . import views
 urlpatterns = [
     path('', views.home),
     path('home', views.home),
-    path('standard', views.output, name="codigos"),
+    path('standard', views.output, name="standard"),
     path('Singleton', views.Singleton, name="singleton"),
+    path('rules', views.rules),
     path('about', views.about)
 ]

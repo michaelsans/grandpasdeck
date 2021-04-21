@@ -9,6 +9,9 @@ singleton = False
 def home(request):
     return render(request,'trueHome.html')
 
+def rules(request):
+    return render(request,'rules.html')
+
 def about(request):
     return render(request,'about.html')
 

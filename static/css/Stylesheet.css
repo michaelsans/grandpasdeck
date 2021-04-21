@@ -1,7 +1,10 @@
 .Modos-de-jogo ul li{
 padding-left: 10px;
 display: inline-block;
-
+}
+.inputtext{
+    background: transparent;
+    border: none;
 }
 .Modos-de-jogo ul li a{
 text-decoration: none;
@@ -68,6 +71,7 @@ display: inline-block;
 font-size: 15px;
 cursor: pointer;
 margin-left: 100px;
+margin-bottom: 10px;
 }
 .button {background-color:yellow;}
 .button2 {background-color:red;

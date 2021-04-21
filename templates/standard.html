@@ -50,10 +50,13 @@
 
                 <div class="column side" ">
                     <div class='CaixaBotão'>
-                        <button class="button" onclick= "location.href='{% url 'codigos' %}'">Duel!</button>
-                        <button class="button2">
+                        <button class="button" onclick= "location.href='{% url 'standard' %}'">Duel!</button>
+                        <button onclick= "myFunction()" class="button2">
                         COPY DECKCODE
-                    </button>
+                        </button>
+                        <input type="text" value="{% if data %}
+                        {{data}}
+                        {% endif %}" id="myInput" class="inputtext">
                     </div>
                 </div>
 
