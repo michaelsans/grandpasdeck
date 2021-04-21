@@ -58,8 +58,8 @@ def output(request):
                         contadordeCampeos = numeroDeCartas
                     #checa se uma carta com nome igual ja esta no deck
                     for x in novodeck:
-                    if x == listaCarta[pos][0]:
-                        contador -= numeroDeCartas
+                        if x == listaCarta[pos][0]:
+                            contador -= numeroDeCartas
                     #o numero de cartas no deck não pode ser maior do que 40 e o numero de campeoes nao pode ser maior que 6
                     if contador > 41 or contadordeCampeos > 6:
                         contador -= numeroDeCartas
@@ -128,8 +128,8 @@ def Singleton(request):
                     contador += numeroDeCartas
                     #checa se uma carta com nome igual ja esta no deck
                     for x in novodeck:
-                    if x == listaCarta[pos][0]:
-                        contador -= numeroDeCartas
+                        if x == listaCarta[pos][0]:
+                            contador -= numeroDeCartas
                     #o numero maximo de campeoes é 6
                     if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 5:
                         contadordeCampeos = numeroDeCartas
