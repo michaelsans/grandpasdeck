@@ -96,10 +96,12 @@ height: 10px;
 
 .headerada {
 padding: 30px;
-text-align: center;
-font-size: 35px;
+padding-left: 320px;
+text-align: left;
+font-size: 30px;
 height: 150px;
 }
+
 /* Create three unequal columns that floats next to each other */
 .column {
 float: left;
@@ -119,6 +121,9 @@ width: 16%;
 }
 .column.intro {
     width: 40%;
+    }
+.column.deck {
+    width: 80%;
     }
 /* Middle column */
 .column.middle {

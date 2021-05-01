@@ -4,21 +4,33 @@ import csv
 import random
 from lor_deckcodes import LoRDeck, CardCodeAndCount
 
-singleton = False
 
 def home(request):
     return render(request,'trueHome.html')
 
-def rules(request):
-    return render(request,'rules.html')
+def Rules(request):
+    return render(request,'Rules.html')
 
-def about(request):
-    return render(request,'about.html')
+def About(request):
+    return render(request,'About.html')
 
 def button(request):
-    return render(request,'standard.html')
+    return render(request,'Standard.html')
 
-def output(request):
+def Standard(request):
+    with open ('swindecks.csv') as csv_file:
+        listaCarta = list(csv.reader(csv_file))
+        pos = random.randint(1, len(listaCarta)-1)
+        nomedeck = listaCarta[pos][0]
+        codigodeck = listaCarta[pos][1]
+        guiadeck = listaCarta[pos][3]
+        carta1 = listaCarta[pos][4]
+        carta2 = listaCarta[pos][5]
+        carta3 = listaCarta[pos][6]
+    return render(request,'Standard.html',{'nomedeck':nomedeck,'codigodeck':codigodeck,
+    'carta1':carta1, 'carta2':carta2, 'carta3':carta3, 'guiadeck':guiadeck})
+
+def AllRandom(request):
     for x in range(8):
         try:
             with open ('cartas.csv') as csv_file:
@@ -47,19 +59,16 @@ def output(request):
                 
                 #escolhe uma carta aleatoria
                 pos = random.randint(1, len(listaCarta))
-                
+
                 #a carta deve pertencer à alguma das regiões escolhidas anteriormente e deve ser colecionável
                 if listaCarta[pos][2] != 'None' and (listaCarta[pos][1] == escolhaCor[0] or listaCarta[pos][1] == escolhaCor[1]):
                     #escolhe um valor entre 1 e 3, esse valor vai ser a quantidade de cópias da carta escolhida
                     numeroDeCartas = random.randint(1, 3)
                     contador += numeroDeCartas
                     #o numero maximo de campeoes é 6
-                    if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 6:
+                    if listaCarta[pos][2] == "Champion" and contadordeCampeos < 6:
                         contadordeCampeos = numeroDeCartas
-                    #checa se uma carta com nome igual ja esta no deck
-                    for x in novodeck:
-                        if x == listaCarta[pos][0]:
-                            contador -= numeroDeCartas
+
                     #o numero de cartas no deck não pode ser maior do que 40 e o numero de campeoes nao pode ser maior que 6
                     if contador > 41 or contadordeCampeos > 6:
                         contador -= numeroDeCartas
@@ -73,6 +82,9 @@ def output(request):
                         elif listaCarta[pos][2] != 'Champion' and listaCarta[pos][4] == 'Spell':
                             b[str(listaCarta[pos][5]) + str(listaCarta[pos][0])] = (listaCarta[pos][6])
                         cartaENumDeCartas = str(numeroDeCartas) + ':' + str(listaCarta[pos][3])
+                        for x in novodeck:
+                            if x == cartaENumDeCartas:
+                                novodeck.remove(x)
                         novodeck.append(cartaENumDeCartas)
             deck = LoRDeck(novodeck[:len(novodeck)])
             data = deck.encode()
@@ -91,7 +103,7 @@ def output(request):
     for key in sorted(c):
         imagemUnidades.append(c[key])
     
-    return render(request,'standard.html',{'data':data,'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
+    return render(request,'AllRandom.html',{'data':data,'imagemCampeoes':imagemCampeoes, 'imagemFeiticos':imagemFeiticos, 'imagemUnidades':imagemUnidades, 'copias':copias})
 
 def Singleton(request):
     for x in range(8):
@@ -120,16 +132,14 @@ def Singleton(request):
                 
                 #escolhe uma carta aleatoria
                 pos = random.randint(1, len(listaCarta))
-                
+                for x in listaDeck:
+                    if x == listaCarta[pos][0]:
+                        pos = random.randint(1, len(listaCarta))
                 #a carta deve pertencer à alguma das regiões escolhidas anteriormente e deve ser colecionável
                 if listaCarta[pos][2] != 'None' and (listaCarta[pos][1] == escolhaCor[0] or listaCarta[pos][1] == escolhaCor[1]):
                     #escolhe 1 carta
                     numeroDeCartas = 1
                     contador += numeroDeCartas
-                    #checa se uma carta com nome igual ja esta no deck
-                    for x in novodeck:
-                        if x == listaCarta[pos][0]:
-                            contador -= numeroDeCartas
                     #o numero maximo de campeoes é 6
                     if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 5:
                         contadordeCampeos = numeroDeCartas

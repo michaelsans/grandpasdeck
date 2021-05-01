@@ -3,6 +3,16 @@ import random
 from lor_deckcodes import LoRDeck, CardCodeAndCount
 
 result = None
+with open ('swindecks.csv') as csv_file:
+        listaCarta = list(csv.reader(csv_file))
+        pos = random.randint(1, len(listaCarta)-1)
+        nomedeck = listaCarta[pos][0]
+        codigodeck = listaCarta[pos][1]
+        guiadeck = listaCarta[pos][3]
+        carta1 = listaCarta[pos][4]
+        carta2 = listaCarta[pos][5]
+        carta3 = listaCarta[pos][6]
+    return
 
 for x in range(8):
     try:
@@ -28,16 +38,15 @@ for x in range(8):
             
             #escolhe uma carta aleatoria
             pos = random.randint(1, len(listaCarta))
-            
+            for x in listaDeck:
+                    if x == listaCarta[pos][0]:
+                        pos = random.randint(1, len(listaCarta))
             #a carta deve pertencer à alguma das regiões escolhidas anteriormente e deve ser colecionável
             if listaCarta[pos][2] != 'None' and (listaCarta[pos][1] == escolhaCor[0] or listaCarta[pos][1] == escolhaCor[1]):
                 #escolhe um valor entre 1 e 3, esse valor vai ser a quantidade de cópias da carta escolhida
                 numeroDeCartas = random.randint(1, 3)
                 contador += numeroDeCartas
                 #checa se uma carta com nome igual ja esta no deck
-                for x in novodeck:
-                    if x == listaCarta[pos][0]:
-                        contador -= numeroDeCartas
                 #o numero maximo de campeoes é 6
                 if listaCarta[pos][2] == "Champion" and contadordeCampeos <= 5:
                     contadordeCampeos = numeroDeCartas

@@ -10,62 +10,61 @@
             <div class="header">
             
             </div>
-            <div class="headerada">
-                {% if nomedeck %}
-            <h1>{{nomedeck}}</h1>
-            {% endif %}     
-            </div>
-            <div class="column side"></div>
-            <div class="column deck">
-                {% if guiadeck %}
-                <h1>{{guiadeck}}</h1>
-                {% endif %}     
-            </div>
+            <div class="headerada">     
+            </div>  
             <div class="row">
+                
                 <div class="column side"></div>
                 <div class="column side">
-                    {% if carta1 %}
+                    <h1>Campeões</h1>
+                    {% for x in imagemCampeoes %}
                     <div class="hover_img">
                         <div class='Campeoes'>
-                            <img src='{{carta1}}' alt="image" height="300"/>
+                            <img src='{{x}}' alt="image" height="300"/>
                         </div>
                     </div>
-                    {% endif %}
+                    {% endfor %}
                 </div>
 
                 <div class="column middle">
-                    {% if carta2 %}
+                    <h1>Unidades</h1>
+                    {% for x in imagemUnidades %}
                     <div class="hover_img">
                         <div class='Unidades'>
-                            <img src='{{carta2}}' alt="image" height="300"/>
+                            <img src='{{x}}' alt="image" height="300"/>
                         </div>
                     </div>
-                    {% endif %}
+                    {% endfor %}
                 </div>
 
                 <div class="column side">
-                    {% if carta3 %}
+                    <h1>Feitiços</h1>
+                    {% for x in imagemFeiticos %}
                     <div class="hover_img">
                         <div class='Feiticos'>
-                            <img src='{{carta3}}' alt="image" height="300"/>
+                            <img src='{{x}}' alt="image" height="300"/>
                         </div>
                     </div>
-                    {% endif %}
+                    {% endfor %}
                 </div>
 
                 <div class="column side" ">
                     <div class='CaixaBotão'>
-                        <button class="button" onclick= "location.href='{% url 'Standard' %}'">Duel!</button>
+                        <button class="button" onclick= "location.href='{% url 'AllRandom' %}'">Duel!</button>
                         <button onclick= "myFunction()" class="button2">
                         COPY DECKCODE
                         </button>
-                        <input type="text" value="{% if codigodeck %}
-                        {{codigodeck}}
+                        <input type="text" value="{% if data %}
+                        {{data}}
                         {% endif %}" id="myInput" class="inputtext">
                     </div>
+                    <h2>
+                        All Random: you will receive a random deck with 1 to 3 copies of cards.</h2>
                 </div>
-                <div class="column side"></div> 
-            </div>
+                <div class="column side"></div>
+
+
+            </div>           
             {% endblock %}
         </main>
 </html>
