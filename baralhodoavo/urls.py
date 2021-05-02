@@ -21,7 +21,6 @@ urlpatterns = [
     path('home', views.home),
     path('Standard', views.Standard, name="Standard"),
     path('Singleton', views.Singleton, name="singleton"),
-    path('Rules', views.Rules),
     path('About', views.About),
     path('AllRandom', views.AllRandom, name="AllRandom")
 ]

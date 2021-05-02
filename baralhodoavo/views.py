@@ -8,8 +8,6 @@ from lor_deckcodes import LoRDeck, CardCodeAndCount
 def home(request):
     return render(request,'trueHome.html')
 
-def Rules(request):
-    return render(request,'Rules.html')
 
 def About(request):
     return render(request,'About.html')
